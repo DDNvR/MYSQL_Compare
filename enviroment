@@ -1,0 +1,22 @@
+[ Main settings ]
+; Possible DATABASE_DRIVER: 'mysql', 'pgsql', 'dblib', 'oci'.
+; Please use 'dblib' for Microsoft SQL Server
+DATABASE_DRIVER = mysql
+DATABASE_ENCODING = utf8
+SAMPLE_DATA_LENGTH = 100
+
+[ Primary connection params ]
+DATABASE_HOST = sql02.localhost.com
+DATABASE_PORT = 3306
+DATABASE_NAME = database_name
+DATABASE_USER = database_user
+DATABASE_PASSWORD = database_password
+DATABASE_DESCRIPTION = Live database
+
+[ Secondary connection params ]
+DATABASE_HOST_SECONDARY = sql04.localhost.com
+DATABASE_PORT_SECONDARY = 3306
+DATABASE_NAME_SECONDARY = database_name
+DATABASE_USER_SECONDARY = database_user
+DATABASE_PASSWORD_SECONDARY = database_password
+DATABASE_DESCRIPTION_SECONDARY = Compared database
