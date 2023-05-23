@@ -26,9 +26,9 @@ DATABASE_USER_SECONDARY = root\
 DATABASE_PASSWORD_SECONDARY =\
 DATABASE_DESCRIPTION_SECONDARY = Production database\
 ```
-\
-where \
-\
+
+where 
+
 `DATABASE_DRIVER` - database driver, possible value\
 \
 - `mysql` - for MySQL database\
