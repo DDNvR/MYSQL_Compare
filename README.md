@@ -1,6 +1,6 @@
 # README\
-\
-## What is mysqlcompare?\
+
+## What is mysqlcompare?
 mysqlcompare is a lightweight script to compare two database schemas. It supports MySQL, MS SQL Server and PostgreSQL.\
 \
 [ Main settings ]\
