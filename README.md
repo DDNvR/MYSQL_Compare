@@ -29,10 +29,10 @@ DATABASE_DESCRIPTION_SECONDARY = Production database\
 
 where 
 
-`DATABASE_DRIVER` - database driver, possible value\
-\
-- `mysql` - for MySQL database\
-- `pgsql` - for PostgreSQL database\
-- `dblib` - for Microsoft SQL Server database\
-- `oci`   - for Oracle database\
+`DATABASE_DRIVER` - database driver, possible value
+
+- `mysql` - for MySQL database
+- `pgsql` - for PostgreSQL database
+- `dblib` - for Microsoft SQL Server database
+- `oci`   - for Oracle database
 
